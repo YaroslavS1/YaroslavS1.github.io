@@ -1,11 +1,11 @@
 {
-  "uid" : "35afa74562e35b6f",
+  "uid" : "ee98bff36db9620e",
   "name" : "test_xfail_expected_failure",
   "fullName" : "vkr_project_tests.test_attach#test_xfail_expected_failure",
   "historyId" : "a55201de92fab6edbf92cb844607333f",
   "time" : {
-    "start" : 1649446935095,
-    "stop" : 1649446935095,
+    "start" : 1649447324149,
+    "stop" : 1649447324149,
     "duration" : 0
   },
   "description" : "this test is an xfail that will be marked as expected failure",
@@ -19,7 +19,7 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "tag",
-    "value" : "@pytest.mark.xfail(condition=<function <lambda> at 0x7f607f778310>, reason='this test is expecting failure')"
+    "value" : "@pytest.mark.xfail(condition=<function <lambda> at 0x7ff0d664c310>, reason='this test is expecting failure')"
   }, {
     "name" : "parentSuite",
     "value" : "vkr_project_tests"
@@ -28,10 +28,10 @@
     "value" : "test_attach"
   }, {
     "name" : "host",
-    "value" : "fv-az82-279"
+    "value" : "fv-az135-297"
   }, {
     "name" : "thread",
-    "value" : "2239-MainThread"
+    "value" : "2334-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -53,8 +53,8 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
-    "tags" : [ "@pytest.mark.xfail(condition=<function <lambda> at 0x7f607f778310>, reason='this test is expecting failure')" ]
+    "tags" : [ "@pytest.mark.xfail(condition=<function <lambda> at 0x7ff0d664c310>, reason='this test is expecting failure')" ]
   },
-  "source" : "35afa74562e35b6f.json",
+  "source" : "ee98bff36db9620e.json",
   "parameterValues" : [ ]
 }

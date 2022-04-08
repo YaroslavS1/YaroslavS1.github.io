@@ -4,12 +4,12 @@
     "name" : "vkr_project_tests.test_attach",
     "children" : [ {
       "name" : "test_xfail_expected_failure",
-      "uid" : "35afa74562e35b6f",
+      "uid" : "ee98bff36db9620e",
       "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
       "status" : "skipped",
       "time" : {
-        "start" : 1649446935095,
-        "stop" : 1649446935095,
+        "start" : 1649447324149,
+        "stop" : 1649447324149,
         "duration" : 0
       },
       "flaky" : false,
@@ -17,12 +17,12 @@
       "parameters" : [ ]
     }, {
       "name" : "test_xfail_unexpected_pass",
-      "uid" : "f378fe602412cb63",
+      "uid" : "4bff9ffe11b6b140",
       "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
       "status" : "passed",
       "time" : {
-        "start" : 1649446935127,
-        "stop" : 1649446935127,
+        "start" : 1649447324174,
+        "stop" : 1649447324174,
         "duration" : 0
       },
       "flaky" : false,
@@ -30,12 +30,12 @@
       "parameters" : [ ]
     }, {
       "name" : "test_xfail_unexpected_pass__",
-      "uid" : "c30c490057d80611",
+      "uid" : "fd05bf0efe75ebce",
       "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
       "status" : "passed",
       "time" : {
-        "start" : 1649446935129,
-        "stop" : 1649446935129,
+        "start" : 1649447324176,
+        "stop" : 1649447324176,
         "duration" : 0
       },
       "flaky" : false,
@@ -43,12 +43,12 @@
       "parameters" : [ ]
     }, {
       "name" : "test_xfail_unexpected_pass___",
-      "uid" : "be066c46164d9860",
+      "uid" : "46808f6c691c922d",
       "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
       "status" : "passed",
       "time" : {
-        "start" : 1649446935131,
-        "stop" : 1649446935131,
+        "start" : 1649447324177,
+        "stop" : 1649447324177,
         "duration" : 0
       },
       "flaky" : false,
