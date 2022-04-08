@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ee98bff36db9620e",
-      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/80//#testresult/ee98bff36db9620e",
+      "uid" : "cb755744659a7af5",
+      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/81//#testresult/cb755744659a7af5",
       "status" : "skipped",
       "statusDetails" : "XFAIL this test is expecting failure\n\nAssertionError: assert False",
       "time" : {
-        "start" : 1649447324149,
-        "stop" : 1649447324149,
+        "start" : 1649447679356,
+        "stop" : 1649447679356,
         "duration" : 0
       }
     } ]
@@ -30,13 +30,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4bff9ffe11b6b140",
-      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/80//#testresult/4bff9ffe11b6b140",
+      "uid" : "88b4558824635c9",
+      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/81//#testresult/88b4558824635c9",
       "status" : "passed",
       "statusDetails" : "XPASS this test is expecting failure",
       "time" : {
-        "start" : 1649447324174,
-        "stop" : 1649447324174,
+        "start" : 1649447679381,
+        "stop" : 1649447679381,
         "duration" : 0
       }
     } ]
@@ -51,13 +51,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "46808f6c691c922d",
-      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/80//#testresult/46808f6c691c922d",
+      "uid" : "b0b967d059ef1c91",
+      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/81//#testresult/b0b967d059ef1c91",
       "status" : "passed",
       "statusDetails" : "XPASS this test is expecting failure",
       "time" : {
-        "start" : 1649447324177,
-        "stop" : 1649447324177,
+        "start" : 1649447679383,
+        "stop" : 1649447679383,
         "duration" : 0
       }
     } ]
@@ -72,13 +72,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fd05bf0efe75ebce",
-      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/80//#testresult/fd05bf0efe75ebce",
+      "uid" : "3d6b65d25184666c",
+      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/81//#testresult/3d6b65d25184666c",
       "status" : "passed",
       "statusDetails" : "XPASS this test is expecting failure",
       "time" : {
-        "start" : 1649447324176,
-        "stop" : 1649447324176,
+        "start" : 1649447679382,
+        "stop" : 1649447679382,
         "duration" : 0
       }
     } ]
