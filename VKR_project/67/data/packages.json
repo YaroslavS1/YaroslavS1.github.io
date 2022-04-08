@@ -4,12 +4,12 @@
     "name" : "vkr_project_tests.test_attach",
     "children" : [ {
       "name" : "test_xfail_expected_failure",
-      "uid" : "12521d4a0a6cbc4a",
+      "uid" : "d5fa0ba624b8981e",
       "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
       "status" : "skipped",
       "time" : {
-        "start" : 1649380703090,
-        "stop" : 1649380703090,
+        "start" : 1649381060701,
+        "stop" : 1649381060701,
         "duration" : 0
       },
       "flaky" : false,
@@ -17,12 +17,12 @@
       "parameters" : [ ]
     }, {
       "name" : "test_xfail_unexpected_pass",
-      "uid" : "60f6332a906c395d",
+      "uid" : "3d3284fa850dff95",
       "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
       "status" : "passed",
       "time" : {
-        "start" : 1649380703115,
-        "stop" : 1649380703115,
+        "start" : 1649381060729,
+        "stop" : 1649381060729,
         "duration" : 0
       },
       "flaky" : false,

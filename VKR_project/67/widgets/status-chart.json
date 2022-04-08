@@ -1,19 +1,19 @@
 [ {
-  "uid" : "12521d4a0a6cbc4a",
+  "uid" : "d5fa0ba624b8981e",
   "name" : "test_xfail_expected_failure",
   "time" : {
-    "start" : 1649380703090,
-    "stop" : 1649380703090,
+    "start" : 1649381060701,
+    "stop" : 1649381060701,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "60f6332a906c395d",
+  "uid" : "3d3284fa850dff95",
   "name" : "test_xfail_unexpected_pass",
   "time" : {
-    "start" : 1649380703115,
-    "stop" : 1649380703115,
+    "start" : 1649381060729,
+    "stop" : 1649381060729,
     "duration" : 0
   },
   "status" : "passed",
