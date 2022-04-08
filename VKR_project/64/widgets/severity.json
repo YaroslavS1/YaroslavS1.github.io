@@ -1,21 +1,21 @@
 [ {
-  "uid" : "de3affb6743e414d",
-  "name" : "test_xfail_expected_failure",
-  "time" : {
-    "start" : 1649377684236,
-    "stop" : 1649377684236,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "49f194389ea9f94",
+  "uid" : "2de5a670672aedbb",
   "name" : "test_xfail_unexpected_pass",
   "time" : {
-    "start" : 1649377684267,
-    "stop" : 1649377684267,
+    "start" : 1649378974158,
+    "stop" : 1649378974158,
     "duration" : 0
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7a031226a4e3f24",
+  "name" : "test_xfail_expected_failure",
+  "time" : {
+    "start" : 1649378974133,
+    "stop" : 1649378974133,
+    "duration" : 0
+  },
+  "status" : "skipped",
   "severity" : "normal"
 } ]
