@@ -4,21 +4,11 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 4
+      "total" : 3
     },
     "items" : [ {
-      "uid" : "504864bad7ce3d48",
-      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/63//#testresult/504864bad7ce3d48",
-      "status" : "passed",
-      "statusDetails" : "XPASS this test is expecting failure",
-      "time" : {
-        "start" : 1649377450240,
-        "stop" : 1649377450240,
-        "duration" : 0
-      }
-    }, {
       "uid" : "ae1003bde8dd1817",
       "reportUrl" : "https://YaroslavS1.github.io/VKR_project/38//#testresult/ae1003bde8dd1817",
       "status" : "passed",
@@ -54,22 +44,12 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 4,
+      "skipped" : 3,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 4
+      "total" : 3
     },
     "items" : [ {
-      "uid" : "a552d766cf26e6",
-      "reportUrl" : "https://YaroslavS1.github.io/VKR_project/63//#testresult/a552d766cf26e6",
-      "status" : "skipped",
-      "statusDetails" : "XFAIL this test is expecting failure\n\nAssertionError: assert False",
-      "time" : {
-        "start" : 1649377450215,
-        "stop" : 1649377450215,
-        "duration" : 0
-      }
-    }, {
       "uid" : "8f964f545b220d7e",
       "reportUrl" : "https://YaroslavS1.github.io/VKR_project/38//#testresult/8f964f545b220d7e",
       "status" : "skipped",
