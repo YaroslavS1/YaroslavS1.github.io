@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 78,
+  "reportUrl" : "https://YaroslavS1.github.io/VKR_project/78/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 2,
+    "unknown" : 0,
+    "total" : 3
+  }
+} ]

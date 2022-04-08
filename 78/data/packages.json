@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "vkr_project_tests.test_attach",
+    "children" : [ {
+      "name" : "test_xfail_expected_failure",
+      "uid" : "633ff5e17ef1be19",
+      "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1649446711663,
+        "stop" : 1649446711663,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_xfail_unexpected_pass",
+      "uid" : "b6d1d4091b44819d",
+      "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649446711687,
+        "stop" : 1649446711687,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_xfail_unexpected_pass__",
+      "uid" : "89f3c6dc4c0c8751",
+      "parentUid" : "1a4f363c7d412bae5e8f6ce5e4f010f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649446711689,
+        "stop" : 1649446711689,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "vkr_project_tests.test_attach"
+  } ],
+  "name" : "packages"
+}
