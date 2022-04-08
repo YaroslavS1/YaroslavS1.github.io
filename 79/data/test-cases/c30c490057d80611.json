@@ -1,0 +1,59 @@
+{
+  "uid" : "c30c490057d80611",
+  "name" : "test_xfail_unexpected_pass__",
+  "fullName" : "vkr_project_tests.test_attach#test_xfail_unexpected_pass__",
+  "historyId" : "211a2bd14a27f59d782e0730f8486c77",
+  "time" : {
+    "start" : 1649446935129,
+    "stop" : 1649446935129,
+    "duration" : 0
+  },
+  "description" : "this test is an xfail that will be marked as unexpected success",
+  "descriptionHtml" : "<p>this test is an xfail that will be marked as unexpected success</p>\n",
+  "status" : "passed",
+  "statusMessage" : "XPASS this test is expecting failure",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.xfail(condition=<function <lambda> at 0x7f607eff85e0>, reason='this test is expecting failure')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "vkr_project_tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_attach"
+  }, {
+    "name" : "host",
+    "value" : "fv-az82-279"
+  }, {
+    "name" : "thread",
+    "value" : "2239-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "vkr_project_tests.test_attach"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.xfail(condition=<function <lambda> at 0x7f607eff85e0>, reason='this test is expecting failure')" ]
+  },
+  "source" : "c30c490057d80611.json",
+  "parameterValues" : [ ]
+}
